@@ -1,0 +1,296 @@
+[
+  {
+    "shadeName": "Rattan",
+    "shadeSkinType": "Light",
+    "shadeUndertone": "Warm",
+    "shadeCode": "2w2",
+    "shadeHex": "D6AC74"
+  },
+  {
+    "shadeName": "Sand",
+    "shadeSkinType": "Light",
+    "shadeUndertone": "Warm",
+    "shadeCode": "1w2",
+    "shadeHex": "C89153"
+  },
+  {
+    "shadeName": "Desert Beige",
+    "shadeSkinType": "Light",
+    "shadeUndertone": "Neutral",
+    "shadeCode": "2n1",
+    "shadeHex": "D9916E"
+  },
+  {
+    "shadeName": "Pure Beige",
+    "shadeSkinType": "Light",
+    "shadeUndertone": "Cool",
+    "shadeCode": "2c1",
+    "shadeHex": "D8A371"
+  },
+  {
+    "shadeName": "Petal",
+    "shadeSkinType": "Light",
+    "shadeUndertone": "Cool",
+    "shadeCode": "1c2",
+    "shadeHex": "D09775"
+  },
+  {
+    "shadeName": "Shell",
+    "shadeSkinType": "Light",
+    "shadeUndertone": "Cool",
+    "shadeCode": "1c0",
+    "shadeHex": "F9C6A9"
+  },
+  {
+    "shadeName": "Ivory Nude",
+    "shadeSkinType": "Light",
+    "shadeUndertone": "Neutral",
+    "shadeCode": "1n1",
+    "shadeHex": "FFD59C"
+  },
+  {
+    "shadeName": "Ecru",
+    "shadeSkinType": "Light",
+    "shadeUndertone": "Neutral",
+    "shadeCode": "1n2",
+    "shadeHex": "FECAA9"
+  },
+  {
+    "shadeName": "Bone",
+    "shadeSkinType": "Light",
+    "shadeUndertone": "Warm",
+    "shadeCode": "1w1",
+    "shadeHex": "F2CAB2"
+  },
+  {
+    "shadeName": "Cool Bone",
+    "shadeSkinType": "Light",
+    "shadeUndertone": "Cool",
+    "shadeCode": "1c1",
+    "shadeHex": "FFD599"
+  },
+  {
+    "shadeName": "Pale Almond",
+    "shadeSkinType": "Light",
+    "shadeUndertone": "Cool",
+    "shadeCode": "2c2",
+    "shadeHex": "D5AA95"
+  },
+  {
+    "shadeName": "Fresco",
+    "shadeSkinType": "Light",
+    "shadeUndertone": "Cool",
+    "shadeCode": "2c3",
+    "shadeHex": "EAAC84"
+  },
+  {
+    "shadeName": "Ivory Rose",
+    "shadeSkinType": "Light",
+    "shadeUndertone": "Cool",
+    "shadeCode": "2c4",
+    "shadeHex": "F0B27F"
+  },
+  {
+    "shadeName": "Buff",
+    "shadeSkinType": "Light",
+    "shadeUndertone": "Neutral",
+    "shadeCode": "2n2",
+    "shadeHex": "D0A172"
+  },
+  {
+    "shadeName": "Dawn",
+    "shadeSkinType": "Light",
+    "shadeUndertone": "Warm",
+    "shadeCode": "2w1",
+    "shadeHex": "C59B67"
+  },
+  {
+    "shadeName": "Cool Vanilla",
+    "shadeSkinType": "Light",
+    "shadeUndertone": "Cool",
+    "shadeCode": "2c0",
+    "shadeHex": "DDA46C"
+  },
+  {
+    "shadeName": "Porcelain",
+    "shadeSkinType": "Light",
+    "shadeUndertone": "Neutral",
+    "shadeCode": "1n0",
+    "shadeHex": "E6BA9A"
+  },
+  {
+    "shadeName": "Tawny",
+    "shadeSkinType": "Medium",
+    "shadeUndertone": "Warm",
+    "shadeCode": "3w1",
+    "shadeHex": "CFA286"
+  },
+  {
+    "shadeName": "Cashew",
+    "shadeSkinType": "Medium",
+    "shadeUndertone": "Warm",
+    "shadeCode": "3w2",
+    "shadeHex": "BD9154"
+  },
+  {
+    "shadeName": "Honey Bronze",
+    "shadeSkinType": "Medium",
+    "shadeUndertone": "Warm",
+    "shadeCode": "4w1",
+    "shadeHex": "D29D62"
+  },
+  {
+    "shadeName": "Ivory Beige",
+    "shadeSkinType": "Medium",
+    "shadeUndertone": "Neutral",
+    "shadeCode": "3n1",
+    "shadeHex": "F1BA99"
+  },
+  {
+    "shadeName": "Shell Beige",
+    "shadeSkinType": "Medium",
+    "shadeUndertone": "Neutral",
+    "shadeCode": "4n1",
+    "shadeHex": "E4AC8D"
+  },
+  {
+    "shadeName": "Fawn",
+    "shadeSkinType": "Medium",
+    "shadeUndertone": "Warm",
+    "shadeCode": "3w1.5",
+    "shadeHex": "C48E5B"
+  },
+  {
+    "shadeName": "Pebble",
+    "shadeSkinType": "Medium",
+    "shadeUndertone": "Cool",
+    "shadeCode": "3c2",
+    "shadeHex": "D69771"
+  },
+  {
+    "shadeName": "Wheat",
+    "shadeSkinType": "Medium",
+    "shadeUndertone": "Neutral",
+    "shadeCode": "3n2",
+    "shadeHex": "BB8652"
+  },
+  {
+    "shadeName": "Warm Creme",
+    "shadeSkinType": "Medium",
+    "shadeUndertone": "Warm",
+    "shadeCode": "3w0",
+    "shadeHex": "CC9D82"
+  },
+  {
+    "shadeName": "Outdoor Beige",
+    "shadeSkinType": "Medium",
+    "shadeUndertone": "Cool",
+    "shadeCode": "4c1",
+    "shadeHex": "D4A18A"
+  },
+  {
+    "shadeName": "Toasty Toffee",
+    "shadeSkinType": "Medium",
+    "shadeUndertone": "Warm",
+    "shadeCode": "4w2",
+    "shadeHex": "C0966E"
+  },
+  {
+    "shadeName": "Spiced Sand",
+    "shadeSkinType": "Medium",
+    "shadeUndertone": "Neutral",
+    "shadeCode": "4n2",
+    "shadeHex": "C79563"
+  },
+  {
+    "shadeName": "Maple",
+    "shadeSkinType": "Deep",
+    "shadeUndertone": "Neutral",
+    "shadeCode": "5n1.5",
+    "shadeHex": "A76739"
+  },
+  {
+    "shadeName": "Cinnamon",
+    "shadeSkinType": "Deep",
+    "shadeUndertone": "Warm",
+    "shadeCode": "5w1.5",
+    "shadeHex": "BA7F4B"
+  },
+  {
+    "shadeName": "Bronze",
+    "shadeSkinType": "Deep",
+    "shadeUndertone": "Warm",
+    "shadeCode": "5w1",
+    "shadeHex": "BA8C52"
+  },
+  {
+    "shadeName": "Amber Honey",
+    "shadeSkinType": "Deep",
+    "shadeUndertone": "Neutral",
+    "shadeCode": "5n2",
+    "shadeHex": "AA6738"
+  },
+  {
+    "shadeName": "Mocha",
+    "shadeSkinType": "Deep",
+    "shadeUndertone": "Neutral",
+    "shadeCode": "6n1",
+    "shadeHex": "A26732"
+  },
+  {
+    "shadeName": "Truffle",
+    "shadeSkinType": "Deep",
+    "shadeUndertone": "Neutral",
+    "shadeCode": "6n2",
+    "shadeHex": "895B2C"
+  },
+  {
+    "shadeName": "Sandalwood",
+    "shadeSkinType": "Deep",
+    "shadeUndertone": "Warm",
+    "shadeCode": "6w1",
+    "shadeHex": "9C633A"
+  },
+  {
+    "shadeName": "Nutmeg",
+    "shadeSkinType": "Deep",
+    "shadeUndertone": "Warm",
+    "shadeCode": "6w2",
+    "shadeHex": "915A32"
+  },
+  {
+    "shadeName": "Deep Spice",
+    "shadeSkinType": "Deep",
+    "shadeUndertone": "Warm",
+    "shadeCode": "7w1",
+    "shadeHex": "7E5030"
+  },
+  {
+    "shadeName": "Esspresso",
+    "shadeSkinType": "Deep",
+    "shadeUndertone": "Neutral",
+    "shadeCode": "8n1",
+    "shadeHex": "5E351A"
+  },
+  {
+    "shadeName": "Pecan",
+    "shadeSkinType": "Deep",
+    "shadeUndertone": "Neutral",
+    "shadeCode": "6c2",
+    "shadeHex": "854E2A"
+  },
+  {
+    "shadeName": "Rich Mahogany",
+    "shadeSkinType": "Deep",
+    "shadeUndertone": "Cool",
+    "shadeCode": "7c1",
+    "shadeHex": "764122"
+  },
+  {
+    "shadeName": "Deep Amber",
+    "shadeSkinType": "Deep",
+    "shadeUndertone": "Neutral",
+    "shadeCode": "7n1",
+    "shadeHex": "72462A"
+  }
+]
