@@ -1,296 +1,76 @@
 [
-  {
-    "shadeName": "Rattan",
-    "shadeSkinType": "Light",
-    "shadeUndertone": "Warm",
-    "shadeCode": "2w2",
-    "shadeHex": "D6AC74"
-  },
-  {
-    "shadeName": "Sand",
-    "shadeSkinType": "Light",
-    "shadeUndertone": "Warm",
-    "shadeCode": "1w2",
-    "shadeHex": "C89153"
-  },
-  {
-    "shadeName": "Desert Beige",
-    "shadeSkinType": "Light",
-    "shadeUndertone": "Neutral",
-    "shadeCode": "2n1",
-    "shadeHex": "D9916E"
-  },
-  {
-    "shadeName": "Pure Beige",
-    "shadeSkinType": "Light",
-    "shadeUndertone": "Cool",
-    "shadeCode": "2c1",
-    "shadeHex": "D8A371"
-  },
-  {
-    "shadeName": "Petal",
-    "shadeSkinType": "Light",
-    "shadeUndertone": "Cool",
-    "shadeCode": "1c2",
-    "shadeHex": "D09775"
-  },
-  {
-    "shadeName": "Shell",
-    "shadeSkinType": "Light",
-    "shadeUndertone": "Cool",
-    "shadeCode": "1c0",
-    "shadeHex": "F9C6A9"
-  },
-  {
-    "shadeName": "Ivory Nude",
-    "shadeSkinType": "Light",
-    "shadeUndertone": "Neutral",
-    "shadeCode": "1n1",
-    "shadeHex": "FFD59C"
-  },
-  {
-    "shadeName": "Ecru",
-    "shadeSkinType": "Light",
-    "shadeUndertone": "Neutral",
-    "shadeCode": "1n2",
-    "shadeHex": "FECAA9"
-  },
-  {
-    "shadeName": "Bone",
-    "shadeSkinType": "Light",
-    "shadeUndertone": "Warm",
-    "shadeCode": "1w1",
-    "shadeHex": "F2CAB2"
-  },
-  {
-    "shadeName": "Cool Bone",
-    "shadeSkinType": "Light",
-    "shadeUndertone": "Cool",
-    "shadeCode": "1c1",
-    "shadeHex": "FFD599"
-  },
-  {
-    "shadeName": "Pale Almond",
-    "shadeSkinType": "Light",
-    "shadeUndertone": "Cool",
-    "shadeCode": "2c2",
-    "shadeHex": "D5AA95"
-  },
-  {
-    "shadeName": "Fresco",
-    "shadeSkinType": "Light",
-    "shadeUndertone": "Cool",
-    "shadeCode": "2c3",
-    "shadeHex": "EAAC84"
-  },
-  {
-    "shadeName": "Ivory Rose",
-    "shadeSkinType": "Light",
-    "shadeUndertone": "Cool",
-    "shadeCode": "2c4",
-    "shadeHex": "F0B27F"
-  },
-  {
-    "shadeName": "Buff",
-    "shadeSkinType": "Light",
-    "shadeUndertone": "Neutral",
-    "shadeCode": "2n2",
-    "shadeHex": "D0A172"
-  },
-  {
-    "shadeName": "Dawn",
-    "shadeSkinType": "Light",
-    "shadeUndertone": "Warm",
-    "shadeCode": "2w1",
-    "shadeHex": "C59B67"
-  },
-  {
-    "shadeName": "Cool Vanilla",
-    "shadeSkinType": "Light",
-    "shadeUndertone": "Cool",
-    "shadeCode": "2c0",
-    "shadeHex": "DDA46C"
-  },
-  {
-    "shadeName": "Porcelain",
-    "shadeSkinType": "Light",
-    "shadeUndertone": "Neutral",
-    "shadeCode": "1n0",
-    "shadeHex": "E6BA9A"
-  },
-  {
-    "shadeName": "Tawny",
-    "shadeSkinType": "Medium",
-    "shadeUndertone": "Warm",
-    "shadeCode": "3w1",
-    "shadeHex": "CFA286"
-  },
-  {
-    "shadeName": "Cashew",
-    "shadeSkinType": "Medium",
-    "shadeUndertone": "Warm",
-    "shadeCode": "3w2",
-    "shadeHex": "BD9154"
-  },
-  {
-    "shadeName": "Honey Bronze",
-    "shadeSkinType": "Medium",
-    "shadeUndertone": "Warm",
-    "shadeCode": "4w1",
-    "shadeHex": "D29D62"
-  },
-  {
-    "shadeName": "Ivory Beige",
-    "shadeSkinType": "Medium",
-    "shadeUndertone": "Neutral",
-    "shadeCode": "3n1",
-    "shadeHex": "F1BA99"
-  },
-  {
-    "shadeName": "Shell Beige",
-    "shadeSkinType": "Medium",
-    "shadeUndertone": "Neutral",
-    "shadeCode": "4n1",
-    "shadeHex": "E4AC8D"
-  },
-  {
-    "shadeName": "Fawn",
-    "shadeSkinType": "Medium",
-    "shadeUndertone": "Warm",
-    "shadeCode": "3w1.5",
-    "shadeHex": "C48E5B"
-  },
-  {
-    "shadeName": "Pebble",
-    "shadeSkinType": "Medium",
-    "shadeUndertone": "Cool",
-    "shadeCode": "3c2",
-    "shadeHex": "D69771"
-  },
-  {
-    "shadeName": "Wheat",
-    "shadeSkinType": "Medium",
-    "shadeUndertone": "Neutral",
-    "shadeCode": "3n2",
-    "shadeHex": "BB8652"
-  },
-  {
-    "shadeName": "Warm Creme",
-    "shadeSkinType": "Medium",
-    "shadeUndertone": "Warm",
-    "shadeCode": "3w0",
-    "shadeHex": "CC9D82"
-  },
-  {
-    "shadeName": "Outdoor Beige",
-    "shadeSkinType": "Medium",
-    "shadeUndertone": "Cool",
-    "shadeCode": "4c1",
-    "shadeHex": "D4A18A"
-  },
-  {
-    "shadeName": "Toasty Toffee",
-    "shadeSkinType": "Medium",
-    "shadeUndertone": "Warm",
-    "shadeCode": "4w2",
-    "shadeHex": "C0966E"
-  },
-  {
-    "shadeName": "Spiced Sand",
-    "shadeSkinType": "Medium",
-    "shadeUndertone": "Neutral",
-    "shadeCode": "4n2",
-    "shadeHex": "C79563"
-  },
-  {
-    "shadeName": "Maple",
-    "shadeSkinType": "Deep",
-    "shadeUndertone": "Neutral",
-    "shadeCode": "5n1.5",
-    "shadeHex": "A76739"
-  },
-  {
-    "shadeName": "Cinnamon",
-    "shadeSkinType": "Deep",
-    "shadeUndertone": "Warm",
-    "shadeCode": "5w1.5",
-    "shadeHex": "BA7F4B"
-  },
-  {
-    "shadeName": "Bronze",
-    "shadeSkinType": "Deep",
-    "shadeUndertone": "Warm",
-    "shadeCode": "5w1",
-    "shadeHex": "BA8C52"
-  },
-  {
-    "shadeName": "Amber Honey",
-    "shadeSkinType": "Deep",
-    "shadeUndertone": "Neutral",
-    "shadeCode": "5n2",
-    "shadeHex": "AA6738"
-  },
-  {
-    "shadeName": "Mocha",
-    "shadeSkinType": "Deep",
-    "shadeUndertone": "Neutral",
-    "shadeCode": "6n1",
-    "shadeHex": "A26732"
-  },
-  {
-    "shadeName": "Truffle",
-    "shadeSkinType": "Deep",
-    "shadeUndertone": "Neutral",
-    "shadeCode": "6n2",
-    "shadeHex": "895B2C"
-  },
-  {
-    "shadeName": "Sandalwood",
-    "shadeSkinType": "Deep",
-    "shadeUndertone": "Warm",
-    "shadeCode": "6w1",
-    "shadeHex": "9C633A"
-  },
-  {
-    "shadeName": "Nutmeg",
-    "shadeSkinType": "Deep",
-    "shadeUndertone": "Warm",
-    "shadeCode": "6w2",
-    "shadeHex": "915A32"
-  },
-  {
-    "shadeName": "Deep Spice",
-    "shadeSkinType": "Deep",
-    "shadeUndertone": "Warm",
-    "shadeCode": "7w1",
-    "shadeHex": "7E5030"
-  },
-  {
-    "shadeName": "Esspresso",
-    "shadeSkinType": "Deep",
-    "shadeUndertone": "Neutral",
-    "shadeCode": "8n1",
-    "shadeHex": "5E351A"
-  },
-  {
-    "shadeName": "Pecan",
-    "shadeSkinType": "Deep",
-    "shadeUndertone": "Neutral",
-    "shadeCode": "6c2",
-    "shadeHex": "854E2A"
-  },
-  {
-    "shadeName": "Rich Mahogany",
-    "shadeSkinType": "Deep",
-    "shadeUndertone": "Cool",
-    "shadeCode": "7c1",
-    "shadeHex": "764122"
-  },
-  {
-    "shadeName": "Deep Amber",
-    "shadeSkinType": "Deep",
-    "shadeUndertone": "Neutral",
-    "shadeCode": "7n1",
-    "shadeHex": "72462A"
-  }
+  { "shadeCode":"2c3",  "shadeName": "Fresco",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6F01_640x640_0.jpg","shadeUndertone":"Cool","shadeHex":"DDB393"  },
+  { "shadeCode":"1c0",  "shadeName": "Shell",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6F15_640x640_0.jpg","shadeUndertone":"Cool","shadeHex":"D8BAA5"  },
+  { "shadeCode":"1c1",  "shadeName": "Cool Bone",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6F66_640x640_0.jpg","shadeUndertone":"Cool","shadeHex":"FFD5BC"  },
+  { "shadeCode":"1n0",  "shadeName": "Porcelain",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6FCA_640x640_0.jpg","shadeUndertone":"Neutral","shadeHex":"E6BA9A"  },
+  { "shadeCode":"1n1",  "shadeName": "Ivory Nude",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6F72_640x640_0.jpg","shadeUndertone":"Neutral","shadeHex":"FEC7A6"  },
+  { "shadeCode":"1n2",  "shadeName": "Ecru",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6F16_640x640_0.jpg","shadeUndertone":"Neutral","shadeHex":"F9C6A9"  },
+  { "shadeCode":"1w0",  "shadeName": "Warm Porcelain",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6FCL_640x640_0.jpg","shadeUndertone":"Warm","shadeHex":"EFC89D"  },
+  { "shadeCode":"1w1",  "shadeName": "Bone",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6F17_640x640_0.jpg","shadeUndertone":"Warm","shadeHex":"FECAA9"  },
+  { "shadeCode":"1w2",  "shadeName": "Sand",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6F36_640x640_0.jpg","shadeUndertone":"Warm","shadeHex":"E4B495"  },
+  { "shadeCode":"2c0",  "shadeName": "Cool Vanilla",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6F62_640x640_0.jpg","shadeUndertone":"Cool","shadeHex":"DDA26A"  },
+  { "shadeCode":"2c1",  "shadeName": "Pure Beige",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6F77_640x640_0.jpg","shadeUndertone":"Cool","shadeHex":"D7A371"  },
+  { "shadeCode":"2c4",  "shadeName": "Ivory Rose",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6F79_640x640_0.jpg","shadeUndertone":"Cool","shadeHex":"C29473"  },
+  { "shadeCode":"2n1",  "shadeName": "Desert Beige",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6F12_640x640_0.jpg","shadeUndertone":"Neutral","shadeHex":"F1BA99"  },
+  { "shadeCode":"2n2",  "shadeName": "Buff",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6FCC_640x640_0.jpg","shadeUndertone":"Neutral","shadeHex":"D0A172"  },
+  { "shadeCode":"2w0",  "shadeName": "Warm Vanilla",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6F82_640x640_0.jpg","shadeUndertone":"Warm","shadeHex":"D39F6B"  },
+  { "shadeCode":"2w1",  "shadeName": "Dawn",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6F53_640x640_0.jpg","shadeUndertone":"Warm","shadeHex":"F1BE94"  },
+  { "shadeCode":"2w2",  "shadeName": "Rattan",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6F84_640x640_0.jpg","shadeUndertone":"Warm","shadeHex":"EDBD9B"  },
+  { "shadeCode":"0n1",  "shadeName": "Alabaster",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6FCT_640x640_0.jpg","shadeUndertone":"Neutral","shadeHex":"FBDBBF"  },
+  
+  
+  { "shadeCode":"3c1",  "shadeName": "Dusk",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6F19_640x640_0.jpg","shadeUndertone":"Cool","shadeHex":"E6B69E"  },
+  { "shadeCode":"3c2",  "shadeName": "Pebble",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6F04_640x640_0.jpg","shadeUndertone":"Cool","shadeHex":"EAAC84"  },
+  { "shadeCode":"3c3",  "shadeName": "Sandbar",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6F88_640x640_0.jpg","shadeUndertone":"Cool","shadeHex":"BB824A"  },
+  { "shadeCode":"3n1",  "shadeName": "Ivory Beige",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6F10_640x640_0.jpg","shadeUndertone":"Neutral","shadeHex":"E4AC8D"  },
+  { "shadeCode":"3n2",  "shadeName": "Wheat",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6F38_640x640_0.jpg","shadeUndertone":"Neutral","shadeHex":"D49974"  },
+  { "shadeCode":"3w1",  "shadeName": "Tawny",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6F37_640x640_0.jpg","shadeUndertone":"Warm","shadeHex":"CE8F61 "  },
+  { "shadeCode":"3w1.5",  "shadeName": "Fawn",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6FCE_640x640_0.jpg","shadeUndertone":"Warm","shadeHex":"C38E5B"  },
+  { "shadeCode":"3w2",  "shadeName": "Cashew",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6F93_640x640_0.jpg","shadeUndertone":"Warm","shadeHex":"D58F64"  },
+  { "shadeCode":"4c1",  "shadeName": "Outdoor Beige",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6F03_640x640_0.jpg","shadeUndertone":"Cool","shadeHex":"C9967C"  },
+  { "shadeCode":"4c2",  "shadeName": "Auburn",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6F06_640x640_0.jpg","shadeUndertone":"Cool","shadeHex":"AA6E3D"  },
+  { "shadeCode":"4c3",  "shadeName": "Softan",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6F41_640x640_0.jpg","shadeUndertone":"Cool","shadeHex":"BD7F5B"  },
+  { "shadeCode":"4n1",  "shadeName": "Shell Beige",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6F05_640x640_0.jpg","shadeUndertone":"Neutral","shadeHex":"D69770"  },
+  { "shadeCode":"4n2",  "shadeName": "Spiced Sand",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6F98_640x640_0.jpg","shadeUndertone":"Neutral","shadeHex":"AC714B"  },
+  { "shadeCode":"4n3",  "shadeName": "Maple Sugar",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6FCN_640x640_0.jpg","shadeUndertone":"Neutral","shadeHex":"C58E55"  },
+  { "shadeCode":"4w1",  "shadeName": "Honey Bronze",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6F99_640x640_0.jpg","shadeUndertone":"Warm","shadeHex":"C17345"  },
+  { "shadeCode":"4w2",  "shadeName": "Toasty Coffee",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6FA0_640x640_0.jpg","shadeUndertone":"Warm","shadeHex":"C0966E"  },
+  { "shadeCode":"4w3",  "shadeName": "Henna",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6F56_640x640_0.jpg","shadeUndertone":"Warm","shadeHex":"AB7D4E"  },
+  { "shadeCode":"4w4",  "shadeName": "Hazel",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6FCP_640x640_0.jpg","shadeUndertone":"Warm","shadeHex":"CB934E"  },
+  
+  
+  { "shadeCode":"5c1",  "shadeName": "Rich Chestnut",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6F67_640x640_0.jpg","shadeUndertone":"Cool","shadeHex":"985530"  },
+  { "shadeCode":"5c2",  "shadeName": "Sepia",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6FCW_640x640_0.jpg","shadeUndertone":"Cool","shadeHex":"C7854A"  },
+  { "shadeCode":"5n1",  "shadeName": "Rich Ginger",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6F13_640x640_0.jpg","shadeUndertone":"Neutral","shadeHex":"D9916E"  },
+  { "shadeCode":"5n1.5","shadeName": "Maple",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6FCF_640x640_0.jpg","shadeUndertone":"Neutral","shadeHex":"A76739"  },
+  { "shadeCode":"5n2",  "shadeName": "Amber Honey",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6FA4_640x640_0.jpg","shadeUndertone":"Neutral","shadeHex":"A2572E"  },
+  { "shadeCode":"5w1",  "shadeName": "Bronze",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6F42_640x640_0.jpg","shadeUndertone":"Warm","shadeHex":"B46D3E"  },
+  { "shadeCode":"5w1.5","shadeName": "Cinnamon",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6FCG_640x640_0.jpg","shadeUndertone":"Warm","shadeHex":"BA7F4B"  },
+  { "shadeCode":"5w2",  "shadeName": "Rich Caramel",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6F70_640x640_0.jpg","shadeUndertone":"Warm","shadeHex":"A75E30"  },
+  { "shadeCode":"6c1",  "shadeName": "Rich Cocoa",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6F68_640x640_0.jpg","shadeUndertone":"Cool","shadeHex":"8E4C2F"  },
+  { "shadeCode":"6c2",  "shadeName": "Pecan",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6FC3_640x640_0.jpg","shadeUndertone":"Cool","shadeHex":"854E2A "  },
+  { "shadeCode":"6n1",  "shadeName": "Mocha",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6FC1_640x640_0.jpg","shadeUndertone":"Neutral","shadeHex":"8E5B39 "  },
+  { "shadeCode":"6n2",  "shadeName": "Truffle",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6FC7_640x640_0.jpg","shadeUndertone":"Neutral","shadeHex":"895B2C"  },
+  { "shadeCode":"6w1",  "shadeName": "Sandalwood",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6FC0_640x640_0.jpg","shadeUndertone":"Warm","shadeHex":"A96438"  },
+  { "shadeCode":"6w2",  "shadeName": "Nutmeg",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6FC2_640x640_0.jpg","shadeUndertone":"Warm","shadeHex":"915A32"  },
+  { "shadeCode":"7c1",  "shadeName": "Rich Mahogany",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6FC8_640x640_0.jpg","shadeUndertone":"Cool","shadeHex":"764122"  },
+  { "shadeCode":"7c2",  "shadeName": "Sienna",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6FCX_640x640_0.jpg","shadeUndertone":"Cool","shadeHex":"7F4B1B"  },
+  { "shadeCode":"7n1",  "shadeName": "Deep Amber",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6FC5_640x640_0.jpg","shadeUndertone":"Neutral","shadeHex":"72462A"  },
+  { "shadeCode":"7w1",  "shadeName": "Deep Spice",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6FC4_640x640_0.jpg","shadeUndertone":"Warm","shadeHex":"7E5030"  },
+  { "shadeCode":"8c1",  "shadeName": "Rich Java",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6F08_640x640_0.jpg","shadeUndertone":"Cool","shadeHex":"693C27"  },
+  { "shadeCode":"8n1",  "shadeName": "Espresso",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6FC6_640x640_0.jpg","shadeUndertone":"Neutral","shadeHex":"5E351A"  },
+  { "shadeCode":"9n1",  "shadeName": "Ebony",  "img" : "https://www.esteelauder.com/media/export/cms/products/640x640/el_sku_YA6FE0_640x640_0.jpg","shadeUndertone":"Neutral","shadeHex":"482C22"  }
+  
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 ]
