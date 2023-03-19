@@ -12,8 +12,15 @@ To install,
 
 1. Create an `.env` file
 2. In the `.env` file, add `PHONE=XXXXXXXXXX`
+3. Create folders at source level, `justfaces`, `uploads`, `makeup_iamges` 
 3. `python3 venv -m env && source ./env/bin/activate `
-4. `python server.py`
-5. Check if server is online by visiting `http://localhost:5000`
+4. Install dependencies,  `pip install -r requirements.txt`
+5. `python server.py`
+6. Check if server is online by visiting `http://localhost:5000`
 
 
+Prototype Backend building specs requirements:
+1. Minimum of 16GB RAM
+2. Ubuntu 20.04 - (could use other platforms, but haven't tested it out)
+3. python 3.8.10
+4. Minimum 10 GB of available storage
